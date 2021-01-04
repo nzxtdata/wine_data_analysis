@@ -1,4 +1,4 @@
-# wine_data_analysis
+# Wine Data Analysis
 ## Data Analysis on Wine Quality using UCI ML dataset
 
 ### Data Set Information:
